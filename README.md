@@ -1,16 +1,11 @@
-                                                               Hi 👋, I'm Soulayma
+                                               Hello everyone! 👋 My Name is Soulayma Bouchiba
 
-<!--
-**soulayma-bouchiba/soulayma-bouchiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some projects with ReactJS, NodeJS, Express ...
+- 🔭  I’m currently working on an application using reactjs, mongodb, expressjs and nodejs
 - 🌱 I’m currently learning The Full-Stack Javascript
-- 👯  I’m looking to collaborate with other content creators.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯  I’m looking to collaborate with other content creators
+- 📫 How to reach me:[Email@soulayma](soulayma97715@gmail.com), [linkedin@soulayma](www.linkedin.com/in/soulayma-bouchiba-3bb300224)
+- ⚡ Fun fact I love Travel and Shopping ...
+
+
