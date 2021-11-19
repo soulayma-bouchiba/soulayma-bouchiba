@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate :**with other content creators**
 
-- 👨‍💻 All of my projects are available at :[https://github.com/soulayma-bouchiba/soulayma-bouchiba.git] (https://github.com/soulayma-bouchiba/soulayma-bouchiba.git)
+- 👨‍💻 All of my projects are available at : https://github.com/soulayma-bouchiba/soulayma-bouchiba.git
 
 - 📫 How to reach me :**soulayma97715@gmail.com**
 
