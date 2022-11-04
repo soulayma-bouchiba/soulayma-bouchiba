@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/soulayma-bouchiba/soulayma-bouchiba.git](https://github.com/soulayma-bouchiba/soulayma-bouchiba.git)
 
-- 📫 How to reach me **soulayma97715@gmail.com**
+- 📫 How to reach me **DevBouchibaSoulayma@gmail.com**
 
 - 📄 Visit my Portfolio to know more about my experiences [https://github.com/soulayma-bouchiba/my-Portfolio.git](https://github.com/soulayma-bouchiba/my-Portfolio.git)
 
